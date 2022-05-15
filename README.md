@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 BOA HANCOCK IS A MODULAR BOT WITH ONE PIECE THEME 」──
+    ──「 NAMI IS A MODULAR BOT WITH ONE PIECE THEME 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/de2cba2944d8cbe948d11.jpg">
+  <img src="https://te.legra.ph/file/85d69938656fe62300fd8.jpg">
 </p>
 
 <p align="center">
